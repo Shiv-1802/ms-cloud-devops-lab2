@@ -14,9 +14,9 @@ You don't change any of these. You add `hello-app.yaml` and fill in the sections
 
 ## Before you push, check
 
-- [ ] `hello-app.yaml` is in the root of this repository
-- [ ] `screenshot.png` is in the root of this repository
-- [ ] every section below is filled in
+- [✓] `hello-app.yaml` is in the root of this repository
+- [✓] `screenshot.png` is in the root of this repository
+- [✓] every section below is filled in
 
 ---
 
